@@ -39,11 +39,6 @@ duration : si vous souhaitez offrir une période de grâce sans blocage après u
 Exemple : je veux offrir 10 minutes de contenu sans blocage, ma variable sera "duration=10"
 ```
 
-## Création d’un div pour accueillir la publicité
-Ajoutez un div avec l’id "cadreJokerlyADS" dans votre page. Il peut être intégré dans le head/footer afin de ne pas devoir être rajouté à chaque page. 
-```html
-<div id="cadreJokerlyADS"></div>
-```
 
 
 
